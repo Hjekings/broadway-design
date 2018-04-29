@@ -1,0 +1,16 @@
+body {
+  font-family: Helvetica;
+}
+
+.title, .links {
+  color: White;
+}
+
+.title {
+  font-size: 70px;
+  font-weight: Bold;
+}
+
+.links {
+  font-size: 18px;
+}
