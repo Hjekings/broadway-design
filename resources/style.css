@@ -1,5 +1,6 @@
 body {
   font-family: Helvetica;
+  text-align: center;
 }
 
 .title, .links {
@@ -13,4 +14,30 @@ body {
 
 .links {
   font-size: 18px;
+}
+
+.heading {
+  font-size: 32px;
+  font-weight: Bold;
+}
+
+.subheading {
+  font-size: 23px;
+  font-weight: Bold;
+}
+
+p {
+  font-size: 13px;
+}
+
+.designed {
+  font-size: 23px;
+  font-weight: Bold;
+  color: White;
+}
+
+.footer {
+  font-size: 11px;
+  color: White;
+  background-color: dimgray;
 }
